@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "select problem statements",
+      "day": "7:45",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "maths module 4",
+      "day": "8:30-10:00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "update resume",
+      "day": "",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "React js",
+      "day": "",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "ygiyigli",
+      "day": "aefarf",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
